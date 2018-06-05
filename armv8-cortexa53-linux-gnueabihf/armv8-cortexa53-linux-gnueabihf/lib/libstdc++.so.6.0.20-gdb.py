@@ -1,0 +1,1 @@
+../../armv8-cortexa53-linux-gnueabihf/sysroot/lib/libstdc++.so.6.0.20-gdb.py
